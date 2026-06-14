@@ -38,6 +38,7 @@ brew install ollama        # Install (macOS)
 ollama pull llama3.1       # Download model (~4.7 GB)
 ollama serve               # Start server on port 11434
 ```
+# Windows/Linux: Download from https://ollama.ai/download
 
 > The app works fully without Ollama — AI features will show a friendly error if it's not running.
 
